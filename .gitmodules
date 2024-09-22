@@ -5,3 +5,12 @@
 [submodule "blake3r"]
 	path = blake3r
 	url = https://github.com/a2-ai/blake3r
+[submodule "dvs"]
+	path = dvs
+	url = https://github.com/a2-ai/dvs
+[submodule "osinfo"]
+	path = osinfo
+	url = https://github.com/a2-ai/osinfo
+[submodule "slurmtools"]
+	path = slurmtools
+	url = https://github.com/a2-ai/slurmtools
