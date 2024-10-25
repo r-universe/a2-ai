@@ -8,9 +8,15 @@
 [submodule "dvs"]
 	path = dvs
 	url = https://github.com/a2-ai/dvs
+[submodule "ghqc.app"]
+	path = ghqc.app
+	url = https://github.com/a2-ai/ghqc.app
 [submodule "osinfo"]
 	path = osinfo
 	url = https://github.com/a2-ai/osinfo
+[submodule "reportifyr"]
+	path = reportifyr
+	url = https://github.com/a2-ai/reportifyr
 [submodule "slurmtools"]
 	path = slurmtools
 	url = https://github.com/a2-ai/slurmtools
