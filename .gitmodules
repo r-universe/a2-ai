@@ -8,6 +8,9 @@
 [submodule "dvs"]
 	path = dvs
 	url = https://github.com/a2-ai/dvs
+[submodule "ghqc"]
+	path = ghqc
+	url = https://github.com/a2-ai/ghqc
 [submodule "ghqc.app"]
 	path = ghqc.app
 	url = https://github.com/a2-ai/ghqc.app
