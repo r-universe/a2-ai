@@ -20,6 +20,9 @@
 [submodule "reportifyr"]
 	path = reportifyr
 	url = https://github.com/a2-ai/reportifyr
+[submodule "scicalc"]
+	path = scicalc
+	url = https://github.com/a2-ai/scicalc
 [submodule "slurmtools"]
 	path = slurmtools
 	url = https://github.com/a2-ai/slurmtools
