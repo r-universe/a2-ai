@@ -17,6 +17,9 @@
 [submodule "osinfo"]
 	path = osinfo
 	url = https://github.com/a2-ai/osinfo
+[submodule "pkgpub"]
+	path = pkgpub
+	url = https://github.com/a2-ai/pkgpub
 [submodule "reportifyr"]
 	path = reportifyr
 	url = https://github.com/a2-ai/reportifyr
