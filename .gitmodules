@@ -11,15 +11,18 @@
 [submodule "ghqc"]
 	path = ghqc
 	url = https://github.com/a2-ai/ghqc
-[submodule "ghqc.app"]
-	path = ghqc.app
-	url = https://github.com/a2-ai/ghqc.app
 [submodule "osinfo"]
 	path = osinfo
 	url = https://github.com/a2-ai/osinfo
 [submodule "pkgpub"]
 	path = pkgpub
 	url = https://github.com/a2-ai/pkgpub
+[submodule "presentifyr"]
+	path = presentifyr
+	url = https://github.com/a2-ai/presentifyr
+[submodule "pyro"]
+	path = pyro
+	url = https://github.com/a2-ai/pyro
 [submodule "reportifyr"]
 	path = reportifyr
 	url = https://github.com/a2-ai/reportifyr
